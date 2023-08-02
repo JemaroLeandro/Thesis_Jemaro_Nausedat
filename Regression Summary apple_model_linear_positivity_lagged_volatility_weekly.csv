@@ -1,0 +1,9 @@
+,Dep. Variable:,average_volatility,R-squared:,0.184
+0,Model:,OLS,Adj. R-squared:,-0.142
+1,Method:,Least Squares,F-statistic:,0.5647
+2,Date:,"Wed, 02 Aug 2023",Prob (F-statistic):,0.601
+3,Time:,08:25:09,Log-Likelihood:,40.544
+4,No. Observations:,8,AIC:,-75.09
+5,Df Residuals:,5,BIC:,-74.85
+6,Df Model:,2,,
+7,Covariance Type:,nonrobust,,

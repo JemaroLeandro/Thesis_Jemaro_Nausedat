@@ -1,0 +1,9 @@
+,Dep. Variable:,weekly_abnormal_return,R-squared:,0.247
+0,Model:,OLS,Adj. R-squared:,-0.055
+1,Method:,Least Squares,F-statistic:,0.8182
+2,Date:,"Wed, 02 Aug 2023",Prob (F-statistic):,0.493
+3,Time:,08:25:09,Log-Likelihood:,20.597
+4,No. Observations:,8,AIC:,-35.19
+5,Df Residuals:,5,BIC:,-34.96
+6,Df Model:,2,,
+7,Covariance Type:,nonrobust,,

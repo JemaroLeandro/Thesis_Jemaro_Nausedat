@@ -1,0 +1,9 @@
+,Dep. Variable:,apple_daily_return,R-squared:,0.260
+0,Model:,OLS,Adj. R-squared:,0.154
+1,Method:,Least Squares,F-statistic:,2.46
+2,Date:,"Wed, 02 Aug 2023",Prob (F-statistic):,0.0909
+3,Time:,08:25:08,Log-Likelihood:,87.802
+4,No. Observations:,25,AIC:,-167.6
+5,Df Residuals:,21,BIC:,-162.7
+6,Df Model:,3,,
+7,Covariance Type:,nonrobust,,
