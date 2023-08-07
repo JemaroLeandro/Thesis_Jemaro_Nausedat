@@ -1,0 +1,9 @@
+,Dep. Variable:,blizzard_ent_daily_return,R-squared:,0.089
+0,Model:,OLS,Adj. R-squared:,0.038
+1,Method:,Least Squares,F-statistic:,1.754
+2,Date:,"Mon, 07 Aug 2023",Prob (F-statistic):,0.188
+3,Time:,08:40:58,Log-Likelihood:,103.08
+4,No. Observations:,39,AIC:,-200.2
+5,Df Residuals:,36,BIC:,-195.2
+6,Df Model:,2,,
+7,Covariance Type:,nonrobust,,
