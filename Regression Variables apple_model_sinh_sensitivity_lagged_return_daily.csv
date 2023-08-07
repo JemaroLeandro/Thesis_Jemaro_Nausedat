@@ -1,0 +1,4 @@
+,index,coef,std err,t,P>|t|,[0.025,0.975]
+0,Intercept,-0.0006,0.001,-0.485,0.631,-0.003,0.002
+1,np.sinh(daily_sensitivity),-0.011,0.01,-1.085,0.285,-0.032,0.01
+2,np.sinh(daily_sensitivity_lag_1),-0.011,0.01,-1.072,0.291,-0.032,0.01

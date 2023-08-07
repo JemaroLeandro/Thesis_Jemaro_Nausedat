@@ -1,0 +1,4 @@
+,index,coef,std err,t,P>|t|,[0.025,0.975]
+0,Intercept,0.0077,0.008,0.93,0.388,-0.013,0.028
+1,np.sinh(roberta_sum),-0.0066,0.066,-0.1,0.924,-0.168,0.155
+2,np.sinh(sp500_weekly_returns_alternate),0.7236,0.476,1.519,0.18,-0.442,1.889

@@ -1,0 +1,4 @@
+,index,coef,std err,t,P>|t|,[0.025,0.975]
+0,Intercept,0.0043,0.007,0.625,0.56,-0.013,0.022
+1,np.sinh(sensitivity),-0.0601,0.059,-1.013,0.358,-0.213,0.093
+2,np.sinh(sp500_weekly_returns_alternate),0.7427,0.529,1.403,0.22,-0.618,2.103
