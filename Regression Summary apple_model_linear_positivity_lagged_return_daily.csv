@@ -1,8 +1,8 @@
 ,Dep. Variable:,apple_daily_abnormal_return,R-squared:,0.034
 0,Model:,OLS,Adj. R-squared:,-0.019
 1,Method:,Least Squares,F-statistic:,0.637
-2,Date:,"Wed, 02 Aug 2023",Prob (F-statistic):,0.535
-3,Time:,08:25:08,Log-Likelihood:,137.54
+2,Date:,"Mon, 07 Aug 2023",Prob (F-statistic):,0.535
+3,Time:,08:40:55,Log-Likelihood:,137.54
 4,No. Observations:,39,AIC:,-269.1
 5,Df Residuals:,36,BIC:,-264.1
 6,Df Model:,2,,
