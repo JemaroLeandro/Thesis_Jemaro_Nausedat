@@ -1,8 +1,8 @@
 ,Dep. Variable:,average_volatility,R-squared:,0.013
 0,Model:,OLS,Adj. R-squared:,-0.128
 1,Method:,Least Squares,F-statistic:,0.09319
-2,Date:,"Wed, 02 Aug 2023",Prob (F-statistic):,0.769
-3,Time:,08:25:11,Log-Likelihood:,28.828
+2,Date:,"Mon, 07 Aug 2023",Prob (F-statistic):,0.769
+3,Time:,08:40:58,Log-Likelihood:,28.828
 4,No. Observations:,9,AIC:,-53.66
 5,Df Residuals:,7,BIC:,-53.26
 6,Df Model:,1,,
